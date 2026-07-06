@@ -1,0 +1,9 @@
+node_modules
+tests
+docs
+infra
+.git
+.github
+README.md
+.env
+npm-debug.log*
